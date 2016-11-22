@@ -33,8 +33,5 @@ We care about:
 - Each other :raised_hands:
 - Social impact :earth_africa:
 - Good documentation :memo:
-- Testing :microscope:
 - Welcoming and teaching new contributors :wave:
 - Writing small, clear, and achievable issues :dart:
-
-We also track quantifiable metrics like inline documentation coverage, testing coverage, and so on. You can see some of these metrics in the icons at the top of this page.
