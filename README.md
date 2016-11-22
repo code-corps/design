@@ -1,4 +1,4 @@
-# Code Corps Elixir API
+# Code Corps Design
 
 [![Slack Status](http://slack.codecorps.org/badge.svg)](http://slack.codecorps.org)
 
